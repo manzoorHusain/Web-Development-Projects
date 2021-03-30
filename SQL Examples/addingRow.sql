@@ -1,0 +1,1 @@
+ALTER TABLE student add age int 

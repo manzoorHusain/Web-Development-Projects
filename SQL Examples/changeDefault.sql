@@ -1,0 +1,1 @@
+INSERT INTO student (name ,age , id) VALUES ("mazhar",18,2)

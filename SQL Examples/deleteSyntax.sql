@@ -1,0 +1,1 @@
+DELETE from TableName WHERE condition
